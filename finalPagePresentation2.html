@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2016 by awimberly (http://jsbin.com/zequsih/6/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <title>Arthur's Page</title>
+</head>
+<body>
+  <h1 style="color:red">Welcome to my page</h1>
+  <p style="background-color:gray">Please enter your name: </p> 
+  <input type="text" id="UserName" onkeyup="UpdateInnerHTML('UserName')"> 
+   
+  <p id="placeHolder"><p/>
+  
+  <script>
+    function UpdateInnerHTML(p) {
+      var UserNameText = document.getElementById(p).value;
+      
+      document.getElementById('placeHolder').innerHTML = UserNameText;
+    }        
+  </script>
+
+</body>
+</html>
