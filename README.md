@@ -1,6 +1,6 @@
 Decided to add my presentations.
 
-#2025
+# 2025
 I was invited to speak to graduates of the Operation Sparks program. We discussed my journey and I offered advice ot future Devs.
 
 # 2016
@@ -9,6 +9,6 @@ The first presentation, "My Robotic Friends" is an exercise that shows the child
 
 The second presentation, "HTML, CSS, and JavaScript" is a crash course in HTML, CSS, and JavaScript. The kids completed this exercise using their Chromebooks and jsBin.com
 
-#2013
+# 2013
 While working at the USDA, we would have monthly programmer presentations in an effort to cross train and share information. I did a very basic .NET presentation
 to show OOP concepts to mainframe developers that were switching to .NET. This was meant to be a series.
